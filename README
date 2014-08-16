@@ -1,0 +1,3 @@
+pip install flask
+pip install python-dateutil
+python moves.py
